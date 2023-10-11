@@ -16,23 +16,17 @@
 		
 		if (num1<num2)
 		{
-			while (num1<=num2)
+			for(int i=num1;i<=num2;i++)
 			{
-			Console.Write(num1+" ");
-			num1=num1+1;
+				Console.Write(i+" ");
 			}
 		}
-		else if (num1>num2)
+		else
 		{
-			while (num1>=num2)
+			for(int i=num1;i>=num2;i--)
 			{
-			Console.Write(num1+" ");
-			num1=num1-1;
+				Console.Write(i+" ");
 			}	
-		}
-		else 
-		{
-			Console.WriteLine(num1);
 		}
 	}
 }
