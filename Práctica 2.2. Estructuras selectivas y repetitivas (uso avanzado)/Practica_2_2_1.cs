@@ -1,10 +1,10 @@
 /*
  * Programa que pide una altura (positivo >1) y dibuje figura de dos picos
- *      *        *
-	   ***      ***
-	  *****    *****
-	 *******  *******
-	******************
+ *          *        *
+ *	   ***      ***
+ *	  *****    *****
+ *	 *******  *******
+ *	******************
  */
  
  using System;
