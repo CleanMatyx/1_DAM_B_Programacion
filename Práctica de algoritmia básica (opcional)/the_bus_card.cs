@@ -9,8 +9,10 @@
      {
         int k,resto,contador;
         k=Convert.ToInt32(Console.ReadLine());
-        contador=k/500;
-        resto=k%500;
+        if (k>=1)
+        {
+		contador=k/500;
+		resto=k%500;
 		if (resto>400)
 		{
 			contador++;
@@ -24,5 +26,6 @@
 			contador++;
 		}
 		Console.WriteLine(contador);
+	}
      }
  }
