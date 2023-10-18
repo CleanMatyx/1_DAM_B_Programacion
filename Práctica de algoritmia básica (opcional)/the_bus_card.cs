@@ -1,4 +1,5 @@
-/* Programa para calcular el mínimo número de transacciones necesarias 
+/* 
+ * Programa para calcular el mínimo número de transacciones necesarias 
  * para viajar con una cantidad 'k' de dinero.
  */
  
@@ -9,7 +10,7 @@
      {
         int k,resto,contador;
         k=Convert.ToInt32(Console.ReadLine());
-        if (k>=1)
+        if (k>=1&&k<=10000)
         {
 		contador=k/500;
 		resto=k%500;
@@ -19,7 +20,7 @@
 		}
 		else if (resto>200)
 		{
-			contador=contador+2;
+			contador+=+2;
 		}
 		else
 		{
