@@ -1,0 +1,14 @@
+E:\Programación\Ejercicios Udemy\Sección 1\Ejercicio_1_07\Ejercicio_1_07\bin\Debug\net6.0\Ejercicio_1_07.exe
+E:\Programación\Ejercicios Udemy\Sección 1\Ejercicio_1_07\Ejercicio_1_07\bin\Debug\net6.0\Ejercicio_1_07.deps.json
+E:\Programación\Ejercicios Udemy\Sección 1\Ejercicio_1_07\Ejercicio_1_07\bin\Debug\net6.0\Ejercicio_1_07.runtimeconfig.json
+E:\Programación\Ejercicios Udemy\Sección 1\Ejercicio_1_07\Ejercicio_1_07\bin\Debug\net6.0\Ejercicio_1_07.dll
+E:\Programación\Ejercicios Udemy\Sección 1\Ejercicio_1_07\Ejercicio_1_07\bin\Debug\net6.0\Ejercicio_1_07.pdb
+E:\Programación\Ejercicios Udemy\Sección 1\Ejercicio_1_07\Ejercicio_1_07\obj\Debug\net6.0\Ejercicio_1_07.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programación\Ejercicios Udemy\Sección 1\Ejercicio_1_07\Ejercicio_1_07\obj\Debug\net6.0\Ejercicio_1_07.AssemblyInfoInputs.cache
+E:\Programación\Ejercicios Udemy\Sección 1\Ejercicio_1_07\Ejercicio_1_07\obj\Debug\net6.0\Ejercicio_1_07.AssemblyInfo.cs
+E:\Programación\Ejercicios Udemy\Sección 1\Ejercicio_1_07\Ejercicio_1_07\obj\Debug\net6.0\Ejercicio_1_07.csproj.CoreCompileInputs.cache
+E:\Programación\Ejercicios Udemy\Sección 1\Ejercicio_1_07\Ejercicio_1_07\obj\Debug\net6.0\Ejercicio_1_07.dll
+E:\Programación\Ejercicios Udemy\Sección 1\Ejercicio_1_07\Ejercicio_1_07\obj\Debug\net6.0\refint\Ejercicio_1_07.dll
+E:\Programación\Ejercicios Udemy\Sección 1\Ejercicio_1_07\Ejercicio_1_07\obj\Debug\net6.0\Ejercicio_1_07.pdb
+E:\Programación\Ejercicios Udemy\Sección 1\Ejercicio_1_07\Ejercicio_1_07\obj\Debug\net6.0\Ejercicio_1_07.genruntimeconfig.cache
+E:\Programación\Ejercicios Udemy\Sección 1\Ejercicio_1_07\Ejercicio_1_07\obj\Debug\net6.0\ref\Ejercicio_1_07.dll
