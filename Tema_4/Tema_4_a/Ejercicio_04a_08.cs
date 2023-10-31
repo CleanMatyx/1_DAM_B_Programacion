@@ -26,6 +26,9 @@
 			else
 				j++;
 		}
+		if (encontrado)
 		Console.WriteLine("Está en la lista. Posición {0}",j+1);
+		else
+		Console.WriteLine("Nombre no encontrado");
 	}
 }
